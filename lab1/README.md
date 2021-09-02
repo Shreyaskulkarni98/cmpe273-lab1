@@ -11,5 +11,5 @@ This is the solution to CMPE Lab1 taken by Prof Sithu Aung.
 5. Measure the time taken by with and without async.
 
 # Structure
-Input: Contains all the unsorted_*.txt files.
+Input: Contains all the unsorted_*.txt files.<\n>
 Output: Contains the sorted.txt files - both with and without async.
