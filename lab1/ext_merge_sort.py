@@ -44,9 +44,9 @@ def main():
     finallist = list(merge(list07, list89))
 
     # 3.writing to file
-    write_to_file(finallist, 'ems_all_sorted_.txt')
+    write_to_file(finallist, 'all_sorted_.txt')
 
-    print("Successful! All the unsorted files have beeen sorted and merged into file: ems_all_sorted_.txt")
+    print("Successful! All the unsorted files have beeen sorted and merged into file: all_sorted_.txt")
 
 
 if __name__ == "__main__":

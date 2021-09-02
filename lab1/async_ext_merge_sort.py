@@ -67,9 +67,9 @@ def main():
     finallist = list(merge(list07, list89))
 
     # 3.writing to file
-    write_to_file(finallist, 'aems_all_sorted_.txt')
+    write_to_file(finallist, 'async_all_sorted_.txt')
 
-    print("Successful! All the unsorted files have beeen sorted and merged into file: aems_all_sorted_.txt")
+    print("Successful! All the unsorted files have beeen sorted and merged into file: async_all_sorted_.txt")
 
 
 if __name__ == "__main__":
